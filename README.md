@@ -10,25 +10,25 @@ This project provides an in-depth analysis of sales data, focusing on key metric
 
 The main dashboard provides a comprehensive overview of the sales performance, summarizing key metrics at a glance.
 
-![Main Dashboard](./sales dashboard/Dashboard.png)
+![Dashboard](./Dashboard.png)
 
 ### 2. Sales, Profit, and Quantity Graph
 
 This graph illustrates the relationship between sales, profit, and quantity sold, helping to identify trends and correlations.
 
-![Sales, Profit, and Quantity Graph](./sales dashboard/sales, profit ,quantity monthly graph)
+![Sales, Profit, and Quantity Graph](./sales_profit_quantity.png)
 
 ### 3. Weekly Trend Graph
 
 The weekly trend graph shows how sales and other key metrics have fluctuated over time, allowing for the identification of patterns and seasonal trends.
 
-![Weekly Trend Graph](./sales dashboard/weekly Trends.png)
+![sales Weekly Trend](./Weekly_trends.png)
 
 ### 4. Product Subcategory Graph
 
 This graph breaks down performance by product subcategory, highlighting which products are driving sales and which may need further attention.
 
-![Product Subcategory Graph](./sales dashboard/sales and profit by subcategory.png)
+![Sales Product by Subcategory](./Category.png)
 
 ## View the Full Project on Tableau Public
 
