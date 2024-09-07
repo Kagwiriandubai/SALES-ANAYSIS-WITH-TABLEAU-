@@ -22,7 +22,7 @@ This graph illustrates the relationship between sales, profit, and quantity sold
 
 The weekly trend graph shows how sales and other key metrics have fluctuated over time, allowing for the identification of patterns and seasonal trends.
 
-![sales Weekly Trend](./Weekly_trends.png)
+![sales Weekly Trend](./Weekly_trends.png.png)
 
 ### 4. Product Subcategory Graph
 
