@@ -6,7 +6,7 @@ This project provides an in-depth analysis of sales data, focusing on key metric
 
 ## Key Visualizations
 
-### 1. Main Dashboard
+### 1. Dashboard
 
 The main dashboard provides a comprehensive overview of the sales performance, summarizing key metrics at a glance.
 
@@ -28,7 +28,7 @@ The weekly trend graph shows how sales and other key metrics have fluctuated ove
 
 This graph breaks down performance by product subcategory, highlighting which products are driving sales and which may need further attention.
 
-![Sales Product by Subcategory](./Category.png)
+![Sales Product by Subcategory](./subcategory.png)
 
 ## View the Full Project on Tableau Public
 
